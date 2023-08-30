@@ -36,9 +36,9 @@
         <version>19</version>
     </dependency>
     <dependency>
-      <groupId>javazoom</groupId>
-      <artifactId>jlayer</artifactId>
-      <version>1.0.1</version>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-media</artifactId>
+        <version>21-ea+21</version>
     </dependency>
   </dependencies>
 
